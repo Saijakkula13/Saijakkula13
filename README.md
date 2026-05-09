@@ -45,7 +45,7 @@ Here are some ideas to get you started:
                 width="40"
                 height="40"
       />
-    </a>
+  </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
